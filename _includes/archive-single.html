@@ -15,13 +15,8 @@
 {% if post.collection == 'publications' %}
 <div class="{{ include.type | default: "list" }}__item publication__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-    {% capture pubtitle %}{{ title }}{% if post.venue %} &ndash; <i>{{ post.venue }}</i>{% if post.volume %} {{ post.volume }}{% endif %}{% endif %}{% endcapture %}
     <h3 class="archive__item-title publication__title" itemprop="headline">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ pubtitle }}</a>
-      {% else %}
-        {{ pubtitle }}
-      {% endif %}
+      {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>{% else %}{{ title }}{% endif %}{% unless post.noyear %} ({% if post.year %}{{ post.year }}{% else %}{{ post.date | date: "%Y" }}{% endif %}){% endunless %}{% if post.venue %} &ndash; <i>{{ post.venue }}</i>{% endif %}
     </h3>
     {% if post.citation %}
     <p class="archive__item-excerpt publication__citation" itemprop="description">{{ post.citation }}</p>

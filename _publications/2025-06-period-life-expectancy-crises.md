@@ -1,6 +1,7 @@
 ---
 title: "How period life expectancy can distort our interpretation of mortality crises"
 collection: publications
+noyear: true
 category: working
 permalink: /publication/2025-06-period-life-expectancy-crises
 date: 2025-06-01

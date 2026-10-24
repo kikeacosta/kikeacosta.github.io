@@ -1,6 +1,7 @@
 ---
 title: "Adverse Mortality Trends have Increased the Number Bereaved in the United States"
 collection: publications
+noyear: true
 category: working
 permalink: /publication/2025-09-bereaved-united-states
 date: 2025-09-01

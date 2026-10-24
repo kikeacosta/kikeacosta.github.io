@@ -1,6 +1,7 @@
 ---
 title: "Visibilización estadística y estimación demográfica de minorías étnico-raciales en Colombia"
 collection: publications
+noyear: true
 category: working
 permalink: /publication/2025-12-minorias-etnico-raciales-colombia
 date: 2025-12-01
