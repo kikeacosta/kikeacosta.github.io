@@ -29,8 +29,15 @@ Latest publications
 Current projects
 ======
 
-- **The boomer penalty.** Excess mortality among baby boomers in Canada and the United States, with Alain Gagnon, Nadine Ouellette, Robert Bourbeau, Marília Nepomuceno, and Alyson van Raalte. [MPIDR Working Paper WP-2020-003](https://doi.org/10.4054/MPIDR-WP-2020-003).
-- **Period life expectancy in mortality crises.** How period life expectancy can distort our interpretation of mortality crises, with Maria Miranda, Ugofilippo Basellini, and Emilio Zagheni. [MPIDR Working Paper](https://www.demogr.mpg.de/en/publications_databases_6118/publications_1904/mpidr_working_papers/how_period_life_expectancy_can_distort_our_interpretation_of_mortality_crises_8601/).
-- **Bereavement in the United States.** Adverse mortality trends have increased the number bereaved in the United States, with Leah Abrams, Sha Jiang, Diego Alburez-Gutierrez, and Emilio Zagheni. [SocArXiv preprint](https://osf.io/preprints/socarxiv/z38cs_v1).
-- **Ethnic-racial minorities in Colombian statistics.** Statistical visibility and demographic estimation of ethnic-racial minorities in Colombia, with Alejandra Romero, Luciana Etcheverry, Luis González, Nadín Medellín, Ercio Muñoz, and Oscar Acosta. Work with the Inter-American Development Bank.
 - **BEHAGEING** (2024–2028). From lifestyle behaviours to ageing: current mortality challenges in low-mortality settings. Co-PI with Sergi Trias-Llimós, funded by the Agencia Estatal de Investigación (Spain).
+
+Advisory and expert roles
+======
+
+- Member, Technical Advisory Council of the National Statistical System of Colombia, [CASEN](https://www.sen.gov.co/conozca-el-sen/instancias/casen) (2025–2027).
+- Member, Technical Advisory Group of the UN Inter-agency Group for Child Mortality Estimation, [UN-IGME TAG](https://childmortality.org/about) (2023–present).
+- Leader of the analysis of excess stillbirths and child and youth deaths during the COVID-19 pandemic for the UN-IGME *Levels & Trends in Child Mortality* reports (2021–2025).
+- Observer member, WHO [Technical Advisory Group on COVID-19 Mortality Assessment](https://www.who.int/data/technical-advisory-group/covid-19--mortality-assessment/membership) (2021–2025).
+- Inter-American Development Bank (IDB): analysis of ethnic and racial classification across Colombian statistical sources (2024–2025).
+- Institut de la statistique du Québec: methodological design for measuring all-cause excess mortality (2021).
+- DANE (Colombia): demographic consultant for mortality estimation methodology (2016).
