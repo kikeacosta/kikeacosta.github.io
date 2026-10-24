@@ -91,7 +91,7 @@ Supervision
 * Enrique Perez (CED and Universitat Autònoma de Barcelona), 2024–present. Cardiovascular mortality trends in Spain and Europe.
 
 **Thesis examiner**
-* Harold Mera (PhD, Universitat Pompeu Fabra), 2024; Paula Castro (PhD, CED), 2024; Florencia Bathory (MSc, Universidad Nacional de Luján), 2024; Maria Gargiulo (MSc, EDSD), 2024; Maria Laura Lopes Miranda (MSc, UFMG-CEDEPLAR), 2023; Amanda Martins (MSc, EDSD), 2023; Giacomo Baldi (MSc, EDSD), 2023.
+* Hampton Gaddy (PhD, London School of Economics), 2026; Harold Mera (PhD, Universitat Pompeu Fabra), 2024; Paula Castro (PhD, CED), 2024; Florencia Bathory (MSc, Universidad Nacional de Luján), 2024; Maria Gargiulo (MSc, EDSD), 2024; Maria Laura Lopes Miranda (MSc, UFMG-CEDEPLAR), 2023; Amanda Martins (MSc, EDSD), 2023; Giacomo Baldi (MSc, EDSD), 2023.
 
 Scientific evaluation and service
 ======
