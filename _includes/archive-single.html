@@ -17,9 +17,9 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/ScholarlyArticle">
     <h3 class="archive__item-title publication__title" itemprop="headline">
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">{{ title }}</a>
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {{ title }}
       {% endif %}
     </h3>
     {% if post.citation %}
