@@ -5,6 +5,7 @@ category: articles
 permalink: /publication/2024-05-stillbirths-child-mortality-covid
 date: 2024-05-01
 venue: 'International Journal of Epidemiology'
+volume: '53(3)'
 paperurl: 'https://academic.oup.com/ije/article/53/3/dyae057/7646110'
-citation: '<b>Acosta, Enrique</b>, Lucia Hug, Helena Cruz-Castanheira, David Sharrow, José Henrique Monteiro da Silva, and Danzhen You (2024). <i>International Journal of Epidemiology</i> 53(3).'
+citation: '<b>Acosta, Enrique</b>, Lucia Hug, Helena Cruz-Castanheira, David Sharrow, José Henrique Monteiro da Silva, and Danzhen You (2024).'
 ---

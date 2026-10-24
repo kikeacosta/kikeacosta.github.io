@@ -5,6 +5,7 @@ category: articles
 permalink: /publication/2020-01-influenza-subtype-dominance
 date: 2020-01-01
 venue: 'Clinical Infectious Diseases'
+volume: 'ciaa075'
 paperurl: 'https://doi.org/10.1093/cid/ciaa075'
-citation: 'Gagnon, Alain, <b>Enrique Acosta</b>, and Matthew S. Miller (2020). <i>Clinical Infectious Diseases</i> ciaa075.'
+citation: 'Gagnon, Alain, <b>Enrique Acosta</b>, and Matthew S. Miller (2020).'
 ---

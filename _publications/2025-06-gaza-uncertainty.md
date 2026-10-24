@@ -5,6 +5,7 @@ category: articles
 permalink: /publication/2025-06-gaza-uncertainty
 date: 2025-06-01
 venue: 'Population Health Metrics'
+volume: '23(55)'
 paperurl: 'https://link.springer.com/article/10.1186/s12963-025-00422-9'
-citation: 'Gómez-Ugarte, Ana C., Irena Chen, <b>Enrique Acosta</b>, Ugofilippo Basellini, and Diego Alburez-Gutierrez (2025). <i>Population Health Metrics</i> 23(55).'
+citation: 'Gómez-Ugarte, Ana C., Irena Chen, <b>Enrique Acosta</b>, Ugofilippo Basellini, and Diego Alburez-Gutierrez (2025).'
 ---
