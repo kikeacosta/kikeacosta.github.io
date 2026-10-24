@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a *Ramón y Cajal* Research Fellow and Established Research Scientist (R3) at the [Centre d'Estudis Demogràfics](https://ced.cat/directori/enrique-acosta/) (CED, Barcelona) and an Affiliate Researcher at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/enrique_acosta_3483/) (MPIDR, Rostock), where I am part of the [Kinship Inequalities Research Group](https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/).
+I am a demographer based at the [Centre d'Estudis Demogràfics](https://ced.cat/directori/enrique-acosta/) (CED, Barcelona) as a *Ramón y Cajal* Research Fellow and Established Research Scientist (R3), and an Affiliate Researcher at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/enrique_acosta_3483/) (MPIDR, Rostock), where I belong to the [Kinship Inequalities Research Group](https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/).
 
-I am a demographer specializing in demographic analysis of mortality crises, including violence, armed conflict, epidemics, and behavioral causes of death. My research focuses on developing new approaches to estimating excess mortality, analyzing bereavement, and modeling age-period-cohort effects. My work has appeared in *Nature*, *Science Advances*, *PNAS*, *Demography*, *Population and Development Review*, and the *International Journal of Epidemiology*, among others.
+My research examines mortality crises—violence, armed conflict, epidemics, and behavioral causes of death—with a focus on new approaches to estimating excess mortality, analyzing bereavement, and modeling age-period-cohort effects. This work has appeared in *Nature*, *Science Advances*, *PNAS*, *Demography*, *Population and Development Review*, and the *International Journal of Epidemiology*, among others.
 
-I am a member of Technical Advisory Groups for the WHO (COVID-19 Mortality Assessment), the UN Inter-agency Group for Child Mortality Estimation (UN-IGME), and Colombia's National Statistical System (SEN). Since 2021 I have led the excess-mortality analysis that feeds the UN's flagship *Levels & Trends in Child Mortality* reports.
+I serve on Technical Advisory Groups for the WHO (COVID-19 Mortality Assessment), the UN Inter-agency Group for Child Mortality Estimation (UN-IGME), and Colombia's National Statistical System (SEN), and since 2021 I have led the excess-mortality analysis that feeds the UN's flagship *Levels & Trends in Child Mortality* reports.
 
-Before joining CED, I was a Research Scientist at MPIDR (2019–2022) and a SSHRC and FRQSC Postdoctoral Fellow (2020–2021). I hold a Ph.D. in Demography from the Université de Montréal (2019), completed in partnership with MPIDR. My full CV is available [as a web page](/cv/) or [as a PDF](/files/cv_enrique_acosta.pdf).
+Before joining CED, I worked as a Research Scientist at MPIDR (2019–2022) and was a SSHRC and FRQSC Postdoctoral Fellow (2020–2021). My Ph.D. in Demography is from the Université de Montréal (2019), completed in partnership with MPIDR. My full CV is available [as a web page](/cv/) or [as a PDF](/files/cv_enrique_acosta.pdf).
 
 Latest publications
 ======
