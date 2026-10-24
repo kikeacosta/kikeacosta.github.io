@@ -13,7 +13,7 @@ I am a demographer specializing in mortality analysis and the demography of cris
 
 I am a member of Technical Advisory Groups for the WHO (COVID-19 Mortality Assessment), the UN Inter-agency Group for Child Mortality Estimation (UN-IGME), and Colombia's National Statistical System (SEN). Since 2021 I have led the excess-mortality analysis that feeds the UN's flagship *Levels & Trends in Child Mortality* reports.
 
-Before joining CED, I was a Research Scientist at MPIDR (2019–2022) and a SSHRC and FRQSC Postdoctoral Fellow (2020–2021). I hold a Ph.D. in Demography from the Université de Montréal (2019), completed in partnership with MPIDR.
+Before joining CED, I was a Research Scientist at MPIDR (2019–2022) and a SSHRC and FRQSC Postdoctoral Fellow (2020–2021). I hold a Ph.D. in Demography from the Université de Montréal (2019), completed in partnership with MPIDR. My full CV is available [as a web page](/cv/) or [as a PDF](/files/cv_enrique_acosta.pdf).
 
 Latest publications
 ======

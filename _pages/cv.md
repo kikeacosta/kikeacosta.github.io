@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/cv_enrique_acosta.pdf" class="btn btn--info"><i class="fa fa-file-pdf" aria-hidden="true"></i> Download CV as PDF</a>
+
 Enrique Acosta is a *Ramón y Cajal* Research Fellow and Established Research Scientist (R3) at the Centre d'Estudis Demogràfics (CED, Barcelona) and an Affiliate Researcher at the Max Planck Institute for Demographic Research (MPIDR, Rostock). He is a demographer specializing in mortality analysis and the demography of crises, including violence, armed conflict, epidemics, and behavioral causes of death.
 
 Bibliometrics (Google Scholar, July 2026): 28 peer-reviewed articles, most in Q1; 1,237 citations; h-index 15; i10-index 20.
