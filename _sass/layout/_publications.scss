@@ -1,0 +1,20 @@
+/* ==========================================================================
+   PUBLICATION LIST (compact: linked title + one citation line)
+   ========================================================================== */
+
+.publication__item {
+  margin-bottom: 1.1em;
+}
+
+.publication__title {
+  margin-top: 0.3em;
+  margin-bottom: 0.15em;
+  font-size: $type-size-5;
+  line-height: 1.3;
+}
+
+.publication__citation {
+  margin: 0;
+  font-size: $type-size-6;
+  line-height: 1.5;
+}
